@@ -127,3 +127,5 @@ export const baseInputs = {
   start: createInputValidator({}),
   restart: createInputValidator({}),
 };
+
+export { AbstractGame }
