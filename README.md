@@ -1,4 +1,5 @@
 # Huge Thanks to all of the Open Source Devs at AI Town 🏠💻💌!!!
+# For their game starter kit 🏠💻💌!!!
 
 [Live Demo](https://www.convex.dev/ai-town)
 
