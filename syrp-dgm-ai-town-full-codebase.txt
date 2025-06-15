@@ -8,7 +8,6 @@ Directory structure:
     ├── jest.config.ts
     ├── LICENSE
     ├── package.json
-    ├── pnpm-lock.yaml
     ├── pnpm-workspace.yaml
     ├── postcss.config.js
     ├── tailwind.config.js
