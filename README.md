@@ -1,19 +1,3 @@
-# Huge Thanks to all of the Open Source Devs at AI Town 🏠💻💌!!!
-# For their game starter kit__()__
-
-<img width="1454" alt="Screen Shot 2023-08-14 at 10 01 00 AM" src="https://github.com/a16z-infra/ai-town/assets/3489963/a4c91f17-23ed-47ec-8c4e-9f9a8505057d">
-
-AI Town is a virtual town where AI characters live, chat and socialize.
-
-[Live Demo](https://www.convex.dev/ai-town)
-
-[Join our community Discord: AI Stack Devs](https://discord.gg/PQUmTBTGmT)
-
-This project is a deployable starter kit for easily building and customizing your own version of AI
-town. Inspired by the research paper
-
-[_Generative Agents: Interactive Simulacra of Human Behavior_](https://arxiv.org/pdf/2304.03442.pdf).
-
 ## A New Frontier in AI Town: The SYRP-DGM Protocol
 
 **A groundbreaking shift is coming to AI Town, transforming it from a social simulation into a dynamic, self-improving ecosystem for trust and reputation. By integrating the principles of the "SYRP-DGM: A Self-Improving Gödelian Reputation Protocol for AI Agents," AI Town will become a living laboratory for exploring how artificial intelligence can autonomously develop, refine, and enforce complex social contracts.**
@@ -783,7 +767,21 @@ and [runtime validation](https://docs.convex.dev/database/schemas#validators) fo
 
 Everything scales automatically, and it’s [free to start](https://www.convex.dev/plans).
 
+# Huge Thanks to all of the Open Source Devs at AI Town 🏠💻💌!!!
+# For their game starter kit__()__
 
+<img width="1454" alt="Screen Shot 2023-08-14 at 10 01 00 AM" src="https://github.com/a16z-infra/ai-town/assets/3489963/a4c91f17-23ed-47ec-8c4e-9f9a8505057d">
+
+AI Town is a virtual town where AI characters live, chat and socialize.
+
+[Live Demo](https://www.convex.dev/ai-town)
+
+[Join our community Discord: AI Stack Devs](https://discord.gg/PQUmTBTGmT)
+
+This project is a deployable starter kit for easily building and customizing your own version of AI
+town. Inspired by the research paper
+
+[_Generative Agents: Interactive Simulacra of Human Behavior_](https://arxiv.org/pdf/2304.03442.pdf).
 
 ================================================
 FILE: ARCHITECTURE.md
@@ -1207,7 +1205,6 @@ COPY . .
 EXPOSE 5173
 
 CMD ["npx", "vite", "--host"]
-
 
 
 ================================================
